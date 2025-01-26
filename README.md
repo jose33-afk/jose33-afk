@@ -10,14 +10,11 @@
 ## Principais IDEs:
 - **Code::Blocks**  
   [![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](http://www.codeblocks.org/)  
-  Um ambiente leve e poderoso, ideal para projetos em C e C++. Perfeito para quem busca simplicidade e eficiência.
 
 - **Visual Studio Code**  
   [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
-  Um editor versátil com suporte a várias linguagens e extensões que otimizam a produtividade.- **PyCharm**  
 
 - **PyCharm**
    [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
-  Focado no desenvolvimento em Python, com ótimos recursos para data science e automação.
 
 
