@@ -1,2 +1,2 @@
-## Olá eu sou o José🤗
+## Olá, eu sou o José🤗
 
