@@ -13,4 +13,9 @@
 [![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](http://www.codeblocks.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
 
+## Contato 📬
+Se você deseja entrar em contato comigo, envie um e-mail para:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseafk88@gmail.com)
+
+
 
