@@ -14,7 +14,7 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
 
 ## Contato 📬
-Gmail:josedev337@gmail.com 
+Gmail: josedev337@gmail.com 
 
 
 
