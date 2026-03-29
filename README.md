@@ -8,7 +8,6 @@
 -  **Working with**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
  <img src="https://img.shields.io/badge/UI/UX-Figma-5E81AC?style=flat-square&logo=figma&logoColor=white" />
 </p>
