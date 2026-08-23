@@ -1,6 +1,5 @@
 ## Hello, I'm José 🤗
 
-Técnico de Suporte de TI focado em Infraestrutura e Automação de Processos. 
 Desenvolvedor focado em lógica bruta e sistemas, utilizando JavaScript para criar ferramentas utilitárias e automações.
 
 - **Social Networks:**
