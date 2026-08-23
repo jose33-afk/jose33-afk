@@ -4,7 +4,7 @@ Desenvolvedor focado em lógica bruta e sistemas, utilizando JavaScript para cri
 
 - **Social Networks:**
 
- &nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseafk_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-549340380/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-549340380/)
 
 - **Tech & Tools:**
   <p align="left">
