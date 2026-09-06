@@ -24,4 +24,3 @@ Desenvolvedor focado em lógica bruta e sistemas, utilizando JavaScript para cri
   - 🧩 Arquitetura de Software (Refatoração para POO e Clean Code).
   - 🚀 Atualmente aprofundando em TypeScript e Engenharia de Software.
 
-*"O visual é o meio, mas a lógica é o que faz a roda girar."*
