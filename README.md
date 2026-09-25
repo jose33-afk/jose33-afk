@@ -1,7 +1,5 @@
 ## Hello, I'm José 🤗
 
-Desenvolvedor focado em lógica bruta e sistemas, utilizando JavaScript para criar ferramentas utilitárias e automações.
-
 - **Social Networks:**
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-549340380/)
