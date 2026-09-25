@@ -1,4 +1,4 @@
-## Hello, I'm José 🤗
+## Hello!
 
 - **Social Networks:**
 
